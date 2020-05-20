@@ -1,0 +1,13 @@
+[package]
+name = "d5-hashmap"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+edition = "2018"
+
+[lib]
+name="d5_hashmap"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand="0.7.2"

@@ -1,0 +1,24 @@
+[package]
+name = "d7-persist"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+edition = "2018"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+
+[dependencies]
+serde="1.0.104"
+serde_derive= "1.0.104"
+bincode="1.2.1"
+#The following two modules were derprecrated since the creation of this course.
+#The code has been fixed to show the current best practice
+
+#failure="0.1.6" -- use anyhow instead
+#failure_derive="0.1.6" -- use thiserror instead
+
+anyhow = "1.0.31"
+thiserror = "1.0.18"
+rand="0.7.3"
+d5-hashmap={path="../d5-hashmap/"}

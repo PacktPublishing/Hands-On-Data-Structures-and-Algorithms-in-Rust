@@ -1,0 +1,35 @@
+[package]
+name = "v1-ll"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name="v1_ll"
+path="src/main.rs"
+
+
+[[bin]]
+name="v2_dbl"
+path="src/v2_dbl.rs"
+
+[[bin]]
+name="v3_bintree"
+path="src/v3_bintree.rs"
+
+[[bin]]
+name="v4_redblack"
+path="src/v4_redblack.rs"
+
+[[bin]]
+name="v5_skip"
+path="src/v5_skip.rs"
+
+[[bin]]
+name="v6_huff"
+path="src/v6-huff.rs"
+
+[dependencies]
+rand = "0.7.2"

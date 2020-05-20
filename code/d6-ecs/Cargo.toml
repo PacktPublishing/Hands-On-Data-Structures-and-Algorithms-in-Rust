@@ -1,0 +1,11 @@
+[package]
+name = "d6-ecs"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+termion = "1.5.5"
+rand="0.7.2"
