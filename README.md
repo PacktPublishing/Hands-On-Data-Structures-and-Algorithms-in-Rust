@@ -56,9 +56,9 @@ IDE : None
 Text: Editor,  Any but one with Rust syntax highlighting preferred
 
 ## Related Products
-* [Learn Rust in 7 Days [Video]] (https://www.packtpub.com/in/application-development/learn-rust-7-days-video)
+* [Learn Rust in 7 Days [Video]](https://www.packtpub.com/in/application-development/learn-rust-7-days-video)
 
-* [Rust Programming Recipes [Video]] (https://www.packtpub.com/in/programming/rust-programming-recipes-video)
+* [Rust Programming Recipes [Video]](https://www.packtpub.com/in/programming/rust-programming-recipes-video)
 
-* [Rust Projects [Video]] (https://www.packtpub.com/in/programming/rust-projects-video)
+* [Rust Projects [Video]](https://www.packtpub.com/in/programming/rust-projects-video)
 
